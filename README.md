@@ -1,0 +1,2 @@
+# Projet-3-Pipeline-complet-de-Machine-Learning-pour-la-pr-diction-des-prix-immobiliers.
+Projet de data science visant à analyser et préparer des données immobilières pour la prédiction des prix des logements. Nettoyage des données, gestion des valeurs manquantes, encodage des variables catégorielles, normalisation et exploration des données pour construire un pipeline de Machine Learning performant.
